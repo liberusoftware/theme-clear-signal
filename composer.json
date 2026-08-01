@@ -1,6 +1,6 @@
 {
   "name": "liberu/theme-clear-signal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clear Signal public theme for Liberu applications.",
   "type": "liberu-theme",
   "license": "MIT",
