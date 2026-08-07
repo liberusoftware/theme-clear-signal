@@ -1,1 +1,0 @@
-{"version":"pest_5.0.2","defects":[],"times":{"P\\Tests\\Architecture\\PackageMetadataTest::__pest_evaluable_it_exposes_complete_and_internally_consistent_theme_metadata":0.074,"Liberu\\Themes\\ClearSignal\\Tests\\Integration\\ServiceProviderTest::test_declared_service_provider_boots_in_testbench":0.002}}
