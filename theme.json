@@ -2,15 +2,15 @@
     "$schema": "https://schemas.liberu.dev/theme/v1.json",
     "name": "clear-signal",
     "display_name": "Clear Signal",
-    "version": "1.5.2",
+    "version": "1.5.1",
     "provider": "Liberu\\Themes\\ClearSignal\\ClearSignalThemeServiceProvider",
     "type": "public",
     "parent": "base",
     "optimized_for": [
-        "liberusoftware/automation-laravel:^1.0"
+        "liberusoftware/boilerplate-laravel:^1.0"
     ],
     "tested_with": [
-        "liberusoftware/automation-laravel:^1.0"
+        "liberusoftware/boilerplate-laravel:^1.0"
     ],
     "required_capabilities": [],
     "optional_capabilities": [
